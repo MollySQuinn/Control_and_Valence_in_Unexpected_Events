@@ -1,0 +1,4 @@
+Copy of "0_to_label" files for the rater.
+Responses randomized. A new column "random" was manually created and used to sort the spreadsheet. The order was the same for both raters.
+ID and unnecessary vars hidden.
+Category, valence, control, and goals label headings added.

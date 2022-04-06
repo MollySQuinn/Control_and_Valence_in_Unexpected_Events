@@ -1,0 +1,117 @@
+﻿ans_code,category_description
+bm_neg_ans1,taxi problem /accident/traffic
+bm_neg_ans2,Belinda late/ misses meeting for unspecified reasons
+bm_neg_ans3,"got time wrong, late"
+bm_neg_ans4,meeting delayed/cancelled
+bm_neg_ans5,"meeting venue closed, door locked, abandoned, etc. Belinda cannot enter."
+bm_neg_ans6,location problems (lost/cant find venue/wrong place)
+bm_neg_ans7,"bad thing happens to Belinda e.g.; gets hurt/mugged/gets wet/ etc,"
+bm_neg_ans8,"witnesses a crime, emergency or accident"
+bm_neg_ans9,fire alarm
+bm_other,other
+bm_pos_ans1,good surprise occurs to Belinda
+bm_pos_ans2,Belinda does something other than the meeting
+bm_pos_ans3,meeting moved to Belinda's current location/nearby
+bm_pos_ans4,"got time wrong, extra early or on time"
+bm_pos_ans5,meeting starts early or others also get there early and Belinda is there in time
+bm_pos_ans6,Belinda sees/bumps into a friend/co-worker/movie star/lover
+bm_pos_ans7,Belinda goes/makes it to the correct meeting venue
+bh_neg_ans1,Flight (home) delayed/cancelled
+bh_neg_ans2,other suitcase issues
+bh_neg_ans3,passport issues
+bh_neg_ans4,Bill ends up with someone else's/the wrong luggage
+bh_neg_ans5,covid19 problems
+bh_neg_ans6,gets fired (not because of covid-19)
+bh_neg_ans7,"Bill gets sick or dies (food poisoning, plane crash)"
+bh_neg_ans8,"it's his luggage, but other people's/unexpected things are in it OR some of his things are missing (good or bad)"
+bh_other,other
+bh_pos_ans1,bag found
+bh_pos_ans2,passport found/new given
+bh_pos_ans3,upgrade/free perk/compensation
+bh_pos_ans4,"good surprise (meets friend, wins lottery)"
+bh_pos_ans5,finds love/love interest
+jp_neg_ans1,Cuts/injury john/ wife
+jp_neg_ans2,"Potato issues (e.g. prepped, none)"
+jp_neg_ans3,"Guest cancel/not come, bad party"
+jp_neg_ans4,Wife-john fight/divorce
+jp_neg_ans5,dinner burnt/ruined
+jp_neg_ans6,guests are early
+jp_neg_ans7,John attacks wife
+jp_neg_ans8,"precondition disables dinner (power outage, oven breaks, etc.)"
+jp_other,other
+jp_pos_ans1,Peeler is found/shows up somewhere odd
+jp_pos_ans2,Have Other Better Dinner
+jp_pos_ans3,Surprise Guest
+jp_pos_ans4,Wife Already done or takes over prep
+jp_pos_ans5,Wife and John are kind to each other
+ll_neg_ans1,bank denies loan (e.g.; issues with credit rating) OR problem with loan when gotten
+ll_neg_ans2,gets in accident/crashes car
+ll_neg_ans3,car breaks down/needs repairs
+ll_neg_ans4,gets scammed
+ll_other,other
+ll_other1,car is a transformer or alive
+ll_other2,"gets something other than new car (bike, motorcycle, uber)"
+ll_pos_ans1,gets money from old car or its parts (from dealer or other offer)
+ll_pos_ans2,wins lottery/gets money from other source (not from selling car)
+ll_pos_ans3,bank approved loan
+ll_pos_ans4,gets car other way (parents/gift/prize)
+ll_pos_ans5,"gets a good deal on the new car (less expensive, trade in good value)"
+ll_pos_ans6,decides to keep old car
+ll_pos_ans7,car worth more than expected
+mt_neg_ans1,Burns himself
+mt_neg_ans2,has no tea
+mt_neg_ans3,breakfast problems ingredients/kettle issues
+mt_neg_ans4,cries
+mt_neg_ans5,context for the bad feelings/memories create a bad day
+mt_neg_ans6,unwelcome guest in kitchen
+mt_neg_ans7,drops or breaks something
+mt_neg_ans8,some bad event stops tea
+mt_other1,other
+mt_other2,someone at the door/phone rings
+mt_other3,Michael is in some other reality: still at university/hasn't gone/is a goat
+mt_pos_ans1,gets good message/finds something good
+mt_pos_ans2,remembers something good
+mt_pos_ans3,coffee instead
+mt_pos_ans4,"university friend stops by, calls, or Mike calls them"
+mt_pos_ans5,goes back to university/enrols in a course/follows his dream from before university
+mt_pos_ans6,finds or buys other tea/tea magically appears
+rs_neg_ans1,"sees dangerous stuff/sea-life/signs/people-in-trouble: sees danger in the sea/beach, sees dangerous sea-life (shark, but can be good thing), dangerous signs (ref flags, warnings from lifeguards), people/sea life in difficulty in sea"
+rs_neg_ans2,she is harmed by things/people/animals/her body: drowned/attacked by sea life/ harmed (e.g. sunburn)
+rs_neg_ans3,drowns
+rs_neg_ans4,she has swimming problems with tide/wave/current/stones
+rs_neg_ans5,sea problem (cold/dirty/too hot)
+rs_neg_ans6,goggles issues arise (may be good or bad)
+rs_neg_ans7,bad weather/natural disaster
+rs_neg_ans8,bad thing happens to lifeguard
+rs_neg_ans9,swims anyway
+rs_other,other
+rs_pos_ans1,someone unexpected good
+rs_pos_ans2,makes friends with lifeguard/romance with lifeguard
+rs_pos_ans3,nice sea/weather conditions
+rs_pos_ans4,"finds/sees something good/interesting (fish, shells gold watch)"
+sw_neg_ans1,out of wine/out of her wine
+sw_neg_ans2,Sally is robbed/mugged or wine gets stolen from Sally (by neighbour or other)
+sw_neg_ans3,unexpected bad accident intervenes
+sw_neg_ans4,store closed
+sw_neg_ans5,forgets to buy/ accidentally leaves wine behind/ goes home without
+sw_neg_ans6,accident unrelated to wine
+sw_neg_ans7,neighbour violence
+sw_neg_ans8,"specifics of fight with neighbour (non-violent: insulted, arrested, told to leave)"
+sw_neg_ans9,something bad happens to the neighbour (not to do with fighting)
+sw_neg_ans10,references to alcoholism
+sw_other,other
+sw_pos_ans1,"finds other wine/better dinner. Friend comes, joins for wine or dinner"
+sw_pos_ans2,"Sally gets revenge (eggs, scratch car, etc.)"
+sw_pos_ans3,neighbour gives wine/dinner
+sw_pos_ans4,neighbour tells something interesting/become friends/having affair (can be good or bad)
+sw_pos_ans5,Sally and/or neighbour makes up/forgives/apologises (no wine)
+sc_neg_ans1,accident (Sean/phone)
+sc_neg_ans2,phone issues
+sc_neg_ans3,"answering problems/issues (none, wrong person)"
+sc_neg_ans4,phone robber or robbed
+sc_other,other
+sc_other_1,mom has good/bad news
+sc_pos_ans1,mom in same location/close by
+sc_pos_ans2,mom calls him first
+sc_pos_ans3,good phone issues; call success; free
+sc_pos_ans4,gets signal/finds other phone

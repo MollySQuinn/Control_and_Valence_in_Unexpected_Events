@@ -1,0 +1,1 @@
+These are the raw data files with a column added to indicate the condition that was used in the survey that the raw data came from.

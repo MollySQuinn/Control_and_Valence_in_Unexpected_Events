@@ -1,0 +1,2 @@
+These data files were downloaded from their respective surveys on SurveyGizmo on 13 May 2020.
+Several survey results needed to be downloaded again due to error on the SurveyGizmo side. One or more responses were missing from the export files. This was fixed on 19th May.

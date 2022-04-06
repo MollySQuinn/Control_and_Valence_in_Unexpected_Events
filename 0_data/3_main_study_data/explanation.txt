@@ -1,0 +1,2 @@
+Data files downloaded from SurveyGizmo o 15.09.2020.
+Two columns added in manually: valence_condition and means_condition.
