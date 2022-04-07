@@ -1,0 +1,17 @@
+,material,means_condition,neg_log_odds
+0,belinda_meeting,absent,0.14571181118139379
+1,belinda_meeting,present,0.4670230011075977
+2,bill_holiday,absent,-0.5596157879354225
+3,bill_holiday,present,0.6250937173149296
+4,john_party,absent,0.7621400520468965
+5,john_party,present,1.3748656652962679
+6,lucy_loan,absent,-1.7707060600302227
+7,lucy_loan,present,-0.4670230011075977
+8,michael_breakfast,absent,-1.0271533246859648
+9,michael_breakfast,present,0.4284546263328633
+10,rebecca_swimming,absent,0.48183808689273827
+11,rebecca_swimming,present,1.555370691163825
+12,sally_wine,absent,-0.7205461547480598
+13,sally_wine,present,1.160744069775116
+14,sean_call,absent,0.5205344378929518
+15,sean_call,present,1.9993988340062998

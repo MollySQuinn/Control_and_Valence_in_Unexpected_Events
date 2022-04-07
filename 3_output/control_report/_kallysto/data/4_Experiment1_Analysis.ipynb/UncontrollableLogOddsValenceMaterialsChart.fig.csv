@@ -1,0 +1,17 @@
+,material,valence_condition,uncontrollable_log_odds
+0,belinda_meeting,negative,0.09180754925312269
+1,belinda_meeting,positive,0.10919929196499181
+2,bill_holiday,negative,0.12861737782209373
+3,bill_holiday,positive,0.0
+4,john_party,negative,-0.1655144384775733
+5,john_party,positive,0.5596157879354227
+6,lucy_loan,negative,-0.8780695190539572
+7,lucy_loan,positive,-0.1823215567939546
+8,michael_breakfast,negative,-0.5849335959197123
+9,michael_breakfast,positive,-0.5596157879354225
+10,rebecca_swimming,negative,0.5849335959197127
+11,rebecca_swimming,positive,1.4441139320087168
+12,sally_wine,negative,-0.1655144384775733
+13,sally_wine,positive,0.7621400520468965
+14,sean_call,negative,1.0622446444972349
+15,sean_call,positive,1.5040773967762744
