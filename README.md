@@ -1,5 +1,5 @@
 # Control and Valence in Unexpected Events
-A home for the data, code, and figures related to the paper M.S. Quinn & M.T. Keane, _Factors affecting “expectations of the unexpected”; The impact of controllability & valence on unexpected outcomes_, Under Review [Paper in Press, link to come]().
+A home for the data, code, and figures related to the paper Quinn, M. S., & Keane, M. T. (2022). Factors affecting “expectations of the unexpected”: The impact of controllability & valence on unexpected outcomes. _Cognition, 225,_ 105142. [https://doi.org/10.1016/j.cognition.2022.105142](https://doi.org/10.1016/j.cognition.2022.105142).
 
 We find that unexpected events are overwhelmingly perceived to be negative and uncontrollable, regardless of the initial valence or controllability of preceding scenarios.
 
